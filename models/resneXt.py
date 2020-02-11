@@ -69,10 +69,10 @@ class ResNeXt(nn.Module):
     
     
     
-def ResNeXt_32x32d():
+def ResNeXt_32x4d():
     return ResNeXt(Block, [3,3,3], 32)
 
-def ResNeXt_16x64d():
+def ResNeXt_16x8d():
     return ResNeXt(Block, [3,3,3], 16)
 
 def test():
