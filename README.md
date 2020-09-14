@@ -7,5 +7,5 @@ https://github.com/kuangliu/pytorch-cifar <- base code
 | ------------------- | ----------- | ----------- |
 | ResNeXt_16x8d      |  95.61      | 79.55      |
 
-# ResNeXt Paper Review
+# Paper Review
 ResNeXt PR : https://cjf8899.github.io/image%20recognition/ResNeXt/
